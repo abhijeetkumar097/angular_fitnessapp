@@ -1,0 +1,47 @@
+/* header.component.css and main.component.css */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
+  
+  .item {
+    border: 2px solid lawngreen;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  p {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.6);
+    margin-bottom: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  img:hover {
+    transform: scale(1.1);
+  }
+  
+  .about-container {
+    max-width: 800px;
+    margin: 5px auto;
+  }
+  .container1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-bottom: 30px;
+  }

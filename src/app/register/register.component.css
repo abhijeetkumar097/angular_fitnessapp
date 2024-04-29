@@ -1,0 +1,58 @@
+/* login.component.css */
+#id1
+{
+  margin-top: 30px;
+  text-align:center;
+}
+.reg-container {
+    width: 400px;
+    margin: 100px auto 200px auto;
+    padding: 25px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #a40f0f0f;
+  }
+  
+  .form-group {
+    margin-bottom: 50px;
+  }
+  
+  label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  input[type="email"],
+  input[type="text"],
+  input[type="tel"] {
+    width: 90%;
+    padding: 10px 10px 10px 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  button {
+    display: block;
+    width: 20%;
+    padding: 10px;
+    margin:auto auto;
+    border: none;
+    border-radius: 5px;
+    background-color: #ff4800;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  button:hover {
+    background-color: #d8cb16b9;
+  }
+
+  a{
+    color:rgb(255, 111, 0)
+  }
+  

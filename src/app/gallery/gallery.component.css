@@ -1,0 +1,19 @@
+.con{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    row-gap: 30px;
+    column-gap: 10px;
+    margin: 15px auto;
+    max-width: 80%;
+    overflow-x: scroll;
+}
+.item{
+    border: 2px solid transparent;
+    padding:0px;
+}
+img{
+    height: 200px;
+    width:300px;
+}
+ 

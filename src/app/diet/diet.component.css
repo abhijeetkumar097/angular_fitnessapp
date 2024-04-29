@@ -1,0 +1,26 @@
+/* styles.css */
+
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    margin: 10px auto;
+  }
+ p{
+  font-size: large;
+ } 
+  ol {
+    margin-left: 20px;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  

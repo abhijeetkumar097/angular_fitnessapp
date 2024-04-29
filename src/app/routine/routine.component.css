@@ -1,0 +1,64 @@
+.con{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+    margin: 30px 40px 20px 40px;
+    row-gap: 20px;
+    column-gap: 20px;
+    overflow-x: scroll;
+}
+.item{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 40px;
+    color: rgb(149, 29, 29);
+    text-align: center;
+}
+.i1{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 25px;
+    color: white;
+    background-color: skyblue;
+    text-align: center; 
+}
+.i2{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 25px;
+    color: white;
+    background-color:chartreuse;
+    text-align: center; 
+}
+.i3{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 25px;
+    color: white;
+    background-color: pink;
+    text-align: center; 
+}
+.i4{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 25px;
+    color: white;
+    background-color: orange;
+    text-align: center; 
+}
+.i5{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 25px;
+    color: white;
+    background-color: orangered;
+    text-align: center; 
+}
+.i6{
+    padding:20px;
+    border: 2px solid transparent;
+    font-size: 25px;
+    color: white;
+    background-color: green;
+    text-align: center; 
+}
